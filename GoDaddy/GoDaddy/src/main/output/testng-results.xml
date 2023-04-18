@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-18T23:50:52 IST" name="All Test Suite" finished-at="2023-04-18T23:51:43 IST" duration-ms="50851">
+    <groups>
+    </groups>
+    <test started-at="2023-04-18T23:50:52 IST" name="C:/Users/naman/IdeaProjects/GoDaddy" finished-at="2023-04-18T23:51:43 IST" duration-ms="50851">
+      <class name="org.example.Godaddy_Nav_Bar">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:org.example.Godaddy_Nav_Bar@2b4a2ec7]" started-at="2023-04-18T23:50:55 IST" name="setup" finished-at="2023-04-18T23:50:57 IST" duration-ms="1793" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.godaddy.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Domain()[pri:0, instance:org.example.Godaddy_Nav_Bar@2b4a2ec7]" started-at="2023-04-18T23:50:57 IST" name="Domain" finished-at="2023-04-18T23:51:01 IST" duration-ms="3315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Domain -->
+        <test-method signature="Transfer_Your_Domains()[pri:1, instance:org.example.Godaddy_Nav_Bar@2b4a2ec7]" started-at="2023-04-18T23:51:01 IST" name="Transfer_Your_Domains" finished-at="2023-04-18T23:51:03 IST" duration-ms="2800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Transfer_Your_Domains -->
+        <test-method signature="Hosting()[pri:2, instance:org.example.Godaddy_Nav_Bar@2b4a2ec7]" started-at="2023-04-18T23:51:03 IST" name="Hosting" finished-at="2023-04-18T23:51:06 IST" duration-ms="2295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hosting -->
+        <test-method is-config="true" signature="destroy()[pri:0, instance:org.example.Godaddy_Nav_Bar@2b4a2ec7]" started-at="2023-04-18T23:51:06 IST" name="destroy" finished-at="2023-04-18T23:51:06 IST" duration-ms="617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroy -->
+      </class> <!-- org.example.Godaddy_Nav_Bar -->
+      <class name="org.example.Verying_links">
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.example.Verying_links@564718df]" started-at="2023-04-18T23:51:06 IST" name="setup" finished-at="2023-04-18T23:51:08 IST" duration-ms="1740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_links()[pri:0, instance:org.example.Verying_links@564718df]" started-at="2023-04-18T23:51:08 IST" name="verify_links" finished-at="2023-04-18T23:51:42 IST" duration-ms="33991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_links -->
+        <test-method is-config="true" signature="destroy()[pri:0, instance:org.example.Verying_links@564718df]" started-at="2023-04-18T23:51:42 IST" name="destroy" finished-at="2023-04-18T23:51:43 IST" duration-ms="661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroy -->
+      </class> <!-- org.example.Verying_links -->
+      <class name="org.example.GoDdady_Homepage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.example.GoDdady_Homepage@51931956]" started-at="2023-04-18T23:50:52 IST" name="setup" finished-at="2023-04-18T23:50:55 IST" duration-ms="2938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="window_maximize()[pri:0, instance:org.example.GoDdady_Homepage@51931956]" started-at="2023-04-18T23:50:55 IST" name="window_maximize" finished-at="2023-04-18T23:50:55 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- window_maximize -->
+        <test-method signature="print_page_title()[pri:1, instance:org.example.GoDdady_Homepage@51931956]" started-at="2023-04-18T23:50:55 IST" name="print_page_title" finished-at="2023-04-18T23:50:55 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print_page_title -->
+        <test-method signature="Verify_page_title()[pri:2, instance:org.example.GoDdady_Homepage@51931956]" started-at="2023-04-18T23:50:55 IST" name="Verify_page_title" finished-at="2023-04-18T23:50:55 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_page_title -->
+        <test-method is-config="true" signature="destroy()[pri:0, instance:org.example.GoDdady_Homepage@51931956]" started-at="2023-04-18T23:50:55 IST" name="destroy" finished-at="2023-04-18T23:50:55 IST" duration-ms="593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroy -->
+      </class> <!-- org.example.GoDdady_Homepage -->
+    </test> <!-- C:/Users/naman/IdeaProjects/GoDaddy -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
