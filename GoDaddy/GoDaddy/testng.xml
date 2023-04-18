@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/naman/IdeaProjects/GoDaddy">
+        <classes>
+            <class name="org.example.GoDdady_Homepage">
+            <methods>
+                <include name="window_maximize"/>
+                <include name="print_page_title"/>
+                <include name="Verify_page_title"/>
+            </methods>
+        </class>
+            <class name="org.example.Godaddy_Nav_Bar">
+                <methods>
+                    <include name="Domain"/>
+                    <include name="Transfer_Your_Domains"/>
+                    <include name="Hosting"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

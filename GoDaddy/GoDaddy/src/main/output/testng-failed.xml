@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="C:/Users/naman/IdeaProjects/GoDaddy(failed)">
+    <classes>
+      <class name="org.example.Godaddy_Nav_Bar">
+        <methods>
+          <include name="Transfer_Your_Domains"/>
+          <include name="Hosting"/>
+          <include name="setup"/>
+          <include name="destroy"/>
+        </methods>
+      </class> <!-- org.example.Godaddy_Nav_Bar -->
+    </classes>
+  </test> <!-- C:/Users/naman/IdeaProjects/GoDaddy(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

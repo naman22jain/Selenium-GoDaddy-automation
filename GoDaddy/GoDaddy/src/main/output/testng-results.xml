@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-18T15:23:35 IST" name="All Test Suite" finished-at="2023-04-18T15:23:50 IST" duration-ms="14325">
+    <groups>
+    </groups>
+    <test started-at="2023-04-18T15:23:35 IST" name="C:/Users/naman/IdeaProjects/GoDaddy" finished-at="2023-04-18T15:23:50 IST" duration-ms="14325">
+      <class name="org.example.Godaddy_Nav_Bar">
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.example.Godaddy_Nav_Bar@7fe8ea47]" started-at="2023-04-18T15:23:39 IST" name="setup" finished-at="2023-04-18T15:23:40 IST" duration-ms="1735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Domain()[pri:0, instance:org.example.Godaddy_Nav_Bar@7fe8ea47]" started-at="2023-04-18T15:23:40 IST" name="Domain" finished-at="2023-04-18T15:23:44 IST" duration-ms="3401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Domain -->
+        <test-method signature="Transfer_Your_Domains()[pri:1, instance:org.example.Godaddy_Nav_Bar@7fe8ea47]" started-at="2023-04-18T15:23:44 IST" name="Transfer_Your_Domains" finished-at="2023-04-18T15:23:47 IST" duration-ms="2915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Transfer_Your_Domains -->
+        <test-method signature="Hosting()[pri:2, instance:org.example.Godaddy_Nav_Bar@7fe8ea47]" started-at="2023-04-18T15:23:47 IST" name="Hosting" finished-at="2023-04-18T15:23:49 IST" duration-ms="2412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hosting -->
+        <test-method is-config="true" signature="destroy()[pri:0, instance:org.example.Godaddy_Nav_Bar@7fe8ea47]" started-at="2023-04-18T15:23:49 IST" name="destroy" finished-at="2023-04-18T15:23:50 IST" duration-ms="594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroy -->
+      </class> <!-- org.example.Godaddy_Nav_Bar -->
+      <class name="org.example.GoDdady_Homepage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.example.GoDdady_Homepage@35fc6dc4]" started-at="2023-04-18T15:23:35 IST" name="setup" finished-at="2023-04-18T15:23:38 IST" duration-ms="2407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="window_maximize()[pri:0, instance:org.example.GoDdady_Homepage@35fc6dc4]" started-at="2023-04-18T15:23:38 IST" name="window_maximize" finished-at="2023-04-18T15:23:38 IST" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- window_maximize -->
+        <test-method signature="print_page_title()[pri:1, instance:org.example.GoDdady_Homepage@35fc6dc4]" started-at="2023-04-18T15:23:38 IST" name="print_page_title" finished-at="2023-04-18T15:23:38 IST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print_page_title -->
+        <test-method signature="Verify_page_title()[pri:2, instance:org.example.GoDdady_Homepage@35fc6dc4]" started-at="2023-04-18T15:23:38 IST" name="Verify_page_title" finished-at="2023-04-18T15:23:38 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_page_title -->
+        <test-method is-config="true" signature="destroy()[pri:0, instance:org.example.GoDdady_Homepage@35fc6dc4]" started-at="2023-04-18T15:23:38 IST" name="destroy" finished-at="2023-04-18T15:23:39 IST" duration-ms="602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroy -->
+      </class> <!-- org.example.GoDdady_Homepage -->
+    </test> <!-- C:/Users/naman/IdeaProjects/GoDaddy -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
